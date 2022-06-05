@@ -2,6 +2,19 @@
 ### Full-Stack Web Developer
 [github.com/EvaGurtovaia](https://github.com/EvaGurtovaia)
 
+### **LANGUAGES / TECHNOLOGIES**
+- JavaScript/ES9
+- React
+- HTML5/CSS4
+- Node.js/Express
+- Python
+- SQL
+- PostgreSQL
+- Heroku
+- AWS
+- Git/GitHub
+- Figma
+
 ### **PROJECTS**
 
 **Grants App** — _Connecting grant writers with individuals and organizations looking for a grant writer for their RFPs and grant applications._
