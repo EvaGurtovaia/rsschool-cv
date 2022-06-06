@@ -1,6 +1,14 @@
 #  **Eva Gurtovaia**
-### Full-Stack Web Developer
-[github.com/EvaGurtovaia](https://github.com/EvaGurtovaia)
+### Full-Stack Web Developer 
+---
+### **CONTACTS**
+
+Location: Chicago, USA <br>
+Phone: +773-983-7210 <br>
+Email: eva.gurtovaya@gmail.com <br>
+Github: [github.com/EvaGurtovaia](https://github.com/EvaGurtovaia)
+
+___
 
 ### **LANGUAGES / TECHNOLOGIES**
 - JavaScript/ES9
@@ -14,6 +22,8 @@
 - AWS
 - Git/GitHub
 - Figma
+
+___
 
 ### **PROJECTS**
 
